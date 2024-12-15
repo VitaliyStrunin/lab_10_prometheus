@@ -55,3 +55,9 @@
     ```
     disk_space_used{disk="/dev/sda1"} 100.6
     ```
+## Контакты
+
+По возникшим вопросам обращайтесь к автору:
+- Telegram: [@this_is_my_link](https://t.me/this_is_my_link)
+- ВКонтакте: [mr_mousemove](https://vk.com/mr_mousemove)
+
